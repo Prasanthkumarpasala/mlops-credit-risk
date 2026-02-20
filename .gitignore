@@ -17,3 +17,6 @@ models/
 
 # Logs
 *.log
+
+.ipynb_checkpoints/
+
