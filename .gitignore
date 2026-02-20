@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+
+# MLflow
+mlruns/
+mlflow.db
+
+# Models
+models/
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
