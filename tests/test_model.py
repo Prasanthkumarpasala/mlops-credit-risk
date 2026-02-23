@@ -16,3 +16,4 @@ def test_data_loading(tmp_path):
 
     assert data.shape[0] == 3
     assert "loan_approved" in data.columns
+    
