@@ -1,5 +1,5 @@
-MLOps Credit Risk Prediction System
-🚀 End-to-End Production MLOps Pipeline
+**MLOps Credit Risk Prediction System
+🚀 End-to-End Production MLOps Pipeline**
 
 This project demonstrates a complete industry-level MLOps workflow for a Credit Risk Prediction system — from model training to CI/CD automation and containerized deployment.
 
@@ -17,11 +17,11 @@ Dockerized Deployment
 
 Production-ready project structure
 
-🧠 Project Objective
+**🧠 Project Objective**
 
 Build a reproducible, scalable, and production-ready ML system to predict loan approval risk using structured financial data.
 
-🏗️ Project Architecture
+**🏗️ Project Architecture**
 
 
 mlops-credit-risk/
@@ -43,8 +43,8 @@ mlops-credit-risk/
 
 
 
-🔁 MLOps Workflow Implemented
-1️⃣ Experiment Tracking
+**🔁 MLOps Workflow Implemented
+1️⃣ Experiment Tracking**
 
 MLflow used to log:
 
@@ -58,7 +58,7 @@ Model registered in MLflow Model Registry
 
 Version control for models
 
-2️⃣ Data Versioning
+**2️⃣ Data Versioning**
 
 DVC used for dataset version control
 
@@ -66,7 +66,7 @@ Ensures reproducibility
 
 Clean separation of code and data
 
-3️⃣ Automated Testing
+**3️⃣ Automated Testing**
 
 Pytest-based unit testing
 
@@ -74,7 +74,7 @@ Environment-independent dummy dataset for CI
 
 Ensures model pipeline reliability
 
-4️⃣ CI/CD Pipeline
+**4️⃣ CI/CD Pipeline**
 
 GitHub Actions automatically:
 
@@ -88,7 +88,7 @@ Fails fast if tests fail
 
 CI is triggered on every push.
 
-🐳 Docker Deployment
+**🐳 Docker Deployment**
 
 Dockerized model service for consistent deployment.
 Build locally:
@@ -98,7 +98,7 @@ docker run -p 8000:8000 credit-risk-api
 
 Running Tests Locally
 pytest -v
-📊 Model Details
+**📊 Model Details**
 
 Algorithm: Random Forest Classifier
 
@@ -120,7 +120,7 @@ CI validation
 
 Dockerized packaging
 
-🎯 Skills Demonstrated
+🎯** Skills Demonstrated**
 
 MLOps
 
@@ -140,7 +140,7 @@ Production debugging
 
 Environment-independent testing
 
-🚀 Future Enhancements
+🚀** Future Enhancements**
 
 Kubernetes deployment
 
